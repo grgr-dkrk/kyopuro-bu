@@ -72,7 +72,7 @@ warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
 4. 設定画面から Code Runner の設定に移動し、`Run In Terminal` にチェックを付ける。（下図2参考）
 5. VSCode をリロードする。
 
-![Cmd + , で設定画面に入り、coderunner で検索、`Run In Terminal` にチェックを付ける](2021-01-12-12-22-53.png)
+![Cmd + , で設定画面に入り、coderunner で検索、`Run In Terminal` にチェックを付ける](./images/2021-01-12-12-22-53.png)
 
 ### やってみる
 VSCode を起動し、`main.cpp` を作って以下をコピペ。  
